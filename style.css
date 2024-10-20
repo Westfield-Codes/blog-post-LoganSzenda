@@ -19,10 +19,13 @@ html {
 
 #blogtitle, #blogcomments {
   padding-top:1em;
-  color:firebrick;
+  color:rgb(206, 99, 28);
 }
 
 body{
   background-color: #6eb571;
 }
 
+.quote {
+  color:rgb(168, 74, 10);
+}
