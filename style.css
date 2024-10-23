@@ -29,3 +29,7 @@ body{
 .quote {
   color:rgb(168, 74, 10);
 }
+
+.reply {
+  padding-left: 50px;
+}
