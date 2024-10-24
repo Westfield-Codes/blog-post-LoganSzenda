@@ -23,7 +23,7 @@ html {
 }
 
 body{
-  background-color: #6eb571;
+  background-color: #7bce7f;
 }
 
 .quote {
@@ -32,4 +32,8 @@ body{
 
 .reply {
   padding-left: 50px;
+}
+
+.original {
+  border: 5px solid #ce9d3b;
 }
