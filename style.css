@@ -19,7 +19,7 @@ html {
 
 #blogtitle, #blogcomments {
   padding-top:1em;
-  color:rgb(206, 99, 28);
+  color:#4e2208;
 }
 
 body{
@@ -27,7 +27,7 @@ body{
 }
 
 .quote {
-  color:rgb(168, 74, 10);
+  color:#4e2208;
 }
 
 .reply {
@@ -35,5 +35,21 @@ body{
 }
 
 .original {
-  border: 5px solid #ce9d3b;
+  border: 5px solid #4e2208;
+}
+
+p { 
+  color: #031729
+}
+
+li { 
+  color: #031729
+}
+
+h3 { 
+  color: #031729
+}
+
+h5 { 
+  color: #4e2208
 }
